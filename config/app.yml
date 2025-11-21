@@ -1,0 +1,11 @@
+flask:
+  host: 127.0.0.1
+  port: 5000
+  debug: true
+
+db:
+  host: localhost
+  port: 3306
+  user: root        
+  password: StasYaremchuk2006
+  database: loreal_db4
